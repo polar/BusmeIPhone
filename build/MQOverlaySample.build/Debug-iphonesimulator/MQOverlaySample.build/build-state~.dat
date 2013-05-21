@@ -1,0 +1,363 @@
+TMQOverlaySample
+v7
+r0
+t390848370.400263
+cCheck dependencies
+cProcessInfoPlistFile /Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/MQOverlaySample.app/Info.plist MQOverlaySample/MQOverlaySample-Info.plist
+cProcessPCH /var/folders/1Z/1ZtsrhgoFaGx7KwXo6XuYE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MQOverlaySample-Prefix-cwsqglbscohuppgmwuslcwdkuxpa/MQOverlaySample-Prefix.pch.pth MQOverlaySample/MQOverlaySample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/Objects-normal/i386/main.o /Users/polar/Desktop/MQOverlaySample/MQOverlaySample/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/Objects-normal/i386/MQOverlaySampleAppDelegate.o /Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/Objects-normal/i386/MQOverlaySampleViewController.o /Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCopyStringsFile /Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/MQOverlaySample.app/en.lproj/InfoPlist.strings MQOverlaySample/en.lproj/InfoPlist.strings
+cCompileXIB /Users/polar/Desktop/MQOverlaySample/MQOverlaySample/en.lproj/MainWindow.xib
+cCompileXIB /Users/polar/Desktop/MQOverlaySample/MQOverlaySample/en.lproj/MQOverlaySampleViewController.xib
+cCpResource build/Debug-iphonesimulator/MQOverlaySample.app/Default@2x.png Default@2x.png
+cCpResource build/Debug-iphonesimulator/MQOverlaySample.app/Default.png Default.png
+cCpResource build/Debug-iphonesimulator/MQOverlaySample.app/Default-568h@2x.png Default-568h@2x.png
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004D54D3440000000000078770
+t1297404740
+s493424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004D54DEBC00000000000778F0
+t1297407676
+s489712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004D54D4200000000000162C50
+t1297404960
+s1453136
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004D54CF0700000000000689C0
+t1297403655
+s428480
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/lib/libsqlite3.dylib
+c000000004D54CB720000000000099500
+t1297402738
+s627968
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/lib/libxml2.dylib
+c000000004D54CF30000000000011E3F0
+t1297403696
+s1172464
+
+N/Users/polar/Desktop/MQOverlaySample/../../MQMapKit.framework/MQMapKit
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/polar/Desktop/MQOverlaySample/Default-568h@2x.png
+c0000000050D0BFF0000000000007657A
+t1355857904
+s484730
+
+N/Users/polar/Desktop/MQOverlaySample/Default.png
+c0000000050D0BFF0000000000001512C
+t1355857904
+s86316
+
+N/Users/polar/Desktop/MQOverlaySample/Default@2x.png
+c0000000050D0BFF0000000000001F758
+t1355857904
+s128856
+
+N/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySample-Prefix.pch
+c0000000050D0BFF00000000000000150
+t1355857904
+s336
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleAppDelegate.h
+c0000000050D0BFF000000000000001C9
+t1355857904
+s457
+i<UIKit/UIKit.h>
+
+N/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleAppDelegate.m
+c0000000050D0BFF0000000000000098C
+t1355857904
+s2444
+i"MQOverlaySampleAppDelegate.h"
+i"MQOverlaySampleViewController.h"
+
+N/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleViewController.h
+c0000000050D0BFF0000000000000017F
+t1355857904
+s383
+i<UIKit/UIKit.h>
+i<MQMapKit/MQMapKit.h>
+
+N/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleViewController.m
+c0000000050D0BFF00000000000000904
+t1355857904
+s2308
+i"MQOverlaySampleViewController.h"
+
+N/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/en.lproj/InfoPlist.strings
+c0000000050D0BFF0000000000000002D
+t1355857904
+s45
+
+N/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/en.lproj/MQOverlaySampleViewController.xib
+c0000000050D0BFF00000000000003EF9
+t1355857904
+s16121
+
+N/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/en.lproj/MainWindow.xib
+c0000000050D0BFF00000000000004D49
+t1355857904
+s19785
+
+N/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/main.m
+c0000000050D0BFF0000000000000016D
+t1355857904
+s365
+i<UIKit/UIKit.h>
+
+N/Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/MQOverlaySample.app
+t2
+s0
+
+N/Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/MQOverlaySample.app.dSYM
+t2
+s0
+
+N/Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/MQOverlaySample.app/Default-568h@2x.png
+t1369155570
+s484730
+
+N/Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/MQOverlaySample.app/Default.png
+t1369155570
+s86316
+
+N/Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/MQOverlaySample.app/Default@2x.png
+t1369155570
+s128856
+
+N/Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/MQOverlaySample.app/Info.plist
+t1369155568
+s875
+
+N/Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/MQOverlaySample.app/MQOverlaySample
+t2
+s0
+
+N/Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/MQOverlaySample.app/PkgInfo
+t1369155568
+s8
+
+N/Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/MQOverlaySample.app/en.lproj/InfoPlist.strings
+t1369155569
+s42
+
+N/Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/MQOverlaySample.app/en.lproj/MQOverlaySampleViewController.nib
+t1369155570
+s1232
+
+N/Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/MQOverlaySample.app/en.lproj/MainWindow.nib
+t1369155569
+s1698
+
+N/Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/Objects-normal/i386/MQOverlaySample.LinkFileList
+c00000000519BA7F000000000000001C7
+t1369155568
+s455
+
+N/Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/Objects-normal/i386/MQOverlaySampleAppDelegate.o
+t2
+s0
+
+N/Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/Objects-normal/i386/MQOverlaySampleViewController.o
+t2
+s0
+
+N/Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/Objects-normal/i386/main.o
+t1369155569
+s3452
+
+N/var/folders/1Z/1ZtsrhgoFaGx7KwXo6XuYE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MQOverlaySample-Prefix-cwsqglbscohuppgmwuslcwdkuxpa/MQOverlaySample-Prefix.pch.pth
+t1369155568
+s3345816
+
+NMQOverlaySample/MQOverlaySample-Info.plist
+c0000000050D0BFF000000000000004E2
+t1355857904
+s1250
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies390848368#390848368#0(0"0(0#1#0"8614004384#0"0#
+
+CCompileC build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/Objects-normal/i386/MQOverlaySampleAppDelegate.o /Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s390848368.973037
+e390848369.323429
+r0
+xCompileC
+xbuild/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/Objects-normal/i386/MQOverlaySampleAppDelegate.o
+x/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleAppDelegate.m:11:
+o/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleViewController.h:10:9: fatal error: 'MQMapKit/MQMapKit.h' file not found
+o #import <MQMapKit/MQMapKit.h>
+o         ^
+o1 error generated.
+lSLF07#2@89"Compile /Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleAppDelegate.m390848368#390848369#0(310"In file included from /Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleAppDelegate.m:11:/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleViewController.h:10:9: fatal error: 'MQMapKit/MQMapKit.h' file not found #import <MQMapKit/MQMapKit.h>         ^1 error generated.1(4@36"'MQMapKit/MQMapKit.h' file not found390848369#108#141#2(7@107"In file included from /Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleAppDelegate.m:11:390848369#0#108#0(6@81"/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleAppDelegate.m377550704#11#0#11#0#0"0(13@124"'MQMapKit/MQMapKit.h' file not found in /Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleViewController.h390848369#18446744073709551615#0#0(6@84"/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleViewController.h377550704#10#9#0#0#0"0(6@84"/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleViewController.h377550704#10#9#0#0#18"'*' file not found0(0#0#81"/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleAppDelegate.m8613124864#2234"    cd /Users/polar/Desktop/MQOverlaySample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/MQOverlaySample-generated-files.hmap -I/Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/MQOverlaySample-own-target-headers.hmap -I/Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/MQOverlaySample-all-target-headers.hmap -iquote /Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/MQOverlaySample-project-headers.hmap -F/Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator -F/Users/polar/Desktop/MQOverlaySample/../../build -F/Users/polar/Desktop/MQOverlaySample/../.. -I/Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/include -I/Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/DerivedSources/i386 -I/Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/DerivedSources -include /var/folders/1Z/1ZtsrhgoFaGx7KwXo6XuYE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MQOverlaySample-Prefix-cwsqglbscohuppgmwuslcwdkuxpa/MQOverlaySample-Prefix.pch -c /Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleAppDelegate.m -o /Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/Objects-normal/i386/MQOverlaySampleAppDelegate.o1#
+
+CCompileC build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/Objects-normal/i386/MQOverlaySampleViewController.o /Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s390848369.323530
+e390848369.382414
+r0
+xCompileC
+xbuild/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/Objects-normal/i386/MQOverlaySampleViewController.o
+x/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleViewController.m:9:
+o/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleViewController.h:10:9: fatal error: 'MQMapKit/MQMapKit.h' file not found
+o #import <MQMapKit/MQMapKit.h>
+o         ^
+o1 error generated.
+lSLF07#2@92"Compile /Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleViewController.m390848369#390848369#0(312"In file included from /Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleViewController.m:9:/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleViewController.h:10:9: fatal error: 'MQMapKit/MQMapKit.h' file not found #import <MQMapKit/MQMapKit.h>         ^1 error generated.1(4@36"'MQMapKit/MQMapKit.h' file not found390848369#110#141#2(7@109"In file included from /Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleViewController.m:9:390848369#0#110#0(6@84"/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleViewController.m377550704#9#0#9#0#0"0(13@124"'MQMapKit/MQMapKit.h' file not found in /Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleViewController.h390848369#18446744073709551615#0#0(6@84"/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleViewController.h377550704#10#9#0#0#0"0(6@84"/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleViewController.h377550704#10#9#0#0#18"'*' file not found0(0#0#84"/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleViewController.m8613919072#2240"    cd /Users/polar/Desktop/MQOverlaySample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/MQOverlaySample-generated-files.hmap -I/Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/MQOverlaySample-own-target-headers.hmap -I/Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/MQOverlaySample-all-target-headers.hmap -iquote /Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/MQOverlaySample-project-headers.hmap -F/Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator -F/Users/polar/Desktop/MQOverlaySample/../../build -F/Users/polar/Desktop/MQOverlaySample/../.. -I/Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/include -I/Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/DerivedSources/i386 -I/Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/DerivedSources -include /var/folders/1Z/1ZtsrhgoFaGx7KwXo6XuYE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MQOverlaySample-Prefix-cwsqglbscohuppgmwuslcwdkuxpa/MQOverlaySample-Prefix.pch -c /Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySampleViewController.m -o /Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/Objects-normal/i386/MQOverlaySampleViewController.o1#
+
+CCompileC build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/Objects-normal/i386/main.o /Users/polar/Desktop/MQOverlaySample/MQOverlaySample/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s390848368.971764
+e390848369.514188
+r1
+xCompileC
+xbuild/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/Objects-normal/i386/main.o
+x/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@67"Compile /Users/polar/Desktop/MQOverlaySample/MQOverlaySample/main.m390848368#390848369#0(0"0(0#0#59"/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/main.m8611619680#2190"    cd /Users/polar/Desktop/MQOverlaySample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/MQOverlaySample-generated-files.hmap -I/Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/MQOverlaySample-own-target-headers.hmap -I/Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/MQOverlaySample-all-target-headers.hmap -iquote /Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/MQOverlaySample-project-headers.hmap -F/Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator -F/Users/polar/Desktop/MQOverlaySample/../../build -F/Users/polar/Desktop/MQOverlaySample/../.. -I/Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/include -I/Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/DerivedSources/i386 -I/Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/DerivedSources -include /var/folders/1Z/1ZtsrhgoFaGx7KwXo6XuYE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MQOverlaySample-Prefix-cwsqglbscohuppgmwuslcwdkuxpa/MQOverlaySample-Prefix.pch -c /Users/polar/Desktop/MQOverlaySample/MQOverlaySample/main.m -o /Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/polar/Desktop/MQOverlaySample/MQOverlaySample/en.lproj/MQOverlaySampleViewController.xib
+s390848369.997419
+e390848370.400164
+r1
+xCompileXIB
+x/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/en.lproj/MQOverlaySampleViewController.xib
+lSLF07#2@69"CompileXIB MQOverlaySample/en.lproj/MQOverlaySampleViewController.xib390848369#390848370#0(0"0(0#0#95"/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/en.lproj/MQOverlaySampleViewController.xib8614703488#644"    cd /Users/polar/Desktop/MQOverlaySample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/MQOverlaySample.app/en.lproj/MQOverlaySampleViewController.nib /Users/polar/Desktop/MQOverlaySample/MQOverlaySample/en.lproj/MQOverlaySampleViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/polar/Desktop/MQOverlaySample/MQOverlaySample/en.lproj/MainWindow.xib
+s390848369.515402
+e390848370.013938
+r1
+xCompileXIB
+x/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/en.lproj/MainWindow.xib
+lSLF07#2@50"CompileXIB MQOverlaySample/en.lproj/MainWindow.xib390848369#390848370#0(0"0(0#0#76"/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/en.lproj/MainWindow.xib8612495104#606"    cd /Users/polar/Desktop/MQOverlaySample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/MQOverlaySample.app/en.lproj/MainWindow.nib /Users/polar/Desktop/MQOverlaySample/MQOverlaySample/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCopyStringsFile /Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/MQOverlaySample.app/en.lproj/InfoPlist.strings MQOverlaySample/en.lproj/InfoPlist.strings
+s390848369.514299
+e390848369.997216
+r1
+xCopyStringsFile
+x/Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/MQOverlaySample.app/en.lproj/InfoPlist.strings
+xMQOverlaySample/en.lproj/InfoPlist.strings
+lSLF07#2@47"Copy MQOverlaySample/en.lproj/InfoPlist.strings390848369#390848369#0(0"0(0#0#79"/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/en.lproj/InfoPlist.strings8612533600#503"    cd /Users/polar/Desktop/MQOverlaySample    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary MQOverlaySample/en.lproj/InfoPlist.strings --outdir /Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/MQOverlaySample.app/en.lproj0#
+
+CCpResource build/Debug-iphonesimulator/MQOverlaySample.app/Default-568h@2x.png Default-568h@2x.png
+s390848370.030362
+e390848370.087218
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MQOverlaySample.app/Default-568h@2x.png
+xDefault-568h@2x.png
+lSLF07#2@24"Copy Default-568h@2x.png390848370#390848370#0(0"0(0#0#56"/Users/polar/Desktop/MQOverlaySample/Default-568h@2x.png8614753344#479"    cd /Users/polar/Desktop/MQOverlaySample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/polar/Desktop/MQOverlaySample/Default-568h@2x.png /Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/MQOverlaySample.app0#
+
+CCpResource build/Debug-iphonesimulator/MQOverlaySample.app/Default.png Default.png
+s390848370.028315
+e390848370.075689
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MQOverlaySample.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png390848370#390848370#0(0"0(0#0#48"/Users/polar/Desktop/MQOverlaySample/Default.png8614739808#471"    cd /Users/polar/Desktop/MQOverlaySample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/polar/Desktop/MQOverlaySample/Default.png /Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/MQOverlaySample.app0#
+
+CCpResource build/Debug-iphonesimulator/MQOverlaySample.app/Default@2x.png Default@2x.png
+s390848370.014195
+e390848370.076598
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/MQOverlaySample.app/Default@2x.png
+xDefault@2x.png
+lSLF07#2@19"Copy Default@2x.png390848370#390848370#0(0"0(0#0#51"/Users/polar/Desktop/MQOverlaySample/Default@2x.png8612914880#474"    cd /Users/polar/Desktop/MQOverlaySample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/polar/Desktop/MQOverlaySample/Default@2x.png /Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/MQOverlaySample.app0#
+
+CGenerateDSYMFile /Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/MQOverlaySample.app.dSYM /Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/MQOverlaySample.app/MQOverlaySample
+r0
+
+CLd /Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/MQOverlaySample.app/MQOverlaySample normal i386
+r0
+
+CProcessInfoPlistFile /Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/MQOverlaySample.app/Info.plist MQOverlaySample/MQOverlaySample-Info.plist
+s390848368.273049
+e390848368.276827
+r1
+xProcessInfoPlistFile
+x/Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/MQOverlaySample.app/Info.plist
+xMQOverlaySample/MQOverlaySample-Info.plist
+lSLF07#2@50"Process MQOverlaySample/MQOverlaySample-Info.plist390848368#390848368#0(0"0(0#0#79"/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySample-Info.plist28429445101453416#513"    cd /Users/polar/Desktop/MQOverlaySample    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MQOverlaySample/MQOverlaySample-Info.plist -genpkginfo /Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/MQOverlaySample.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/MQOverlaySample.app/Info.plist0#
+
+CProcessPCH /var/folders/1Z/1ZtsrhgoFaGx7KwXo6XuYE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MQOverlaySample-Prefix-cwsqglbscohuppgmwuslcwdkuxpa/MQOverlaySample-Prefix.pch.pth MQOverlaySample/MQOverlaySample-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s390848368.276953
+e390848368.971650
+r1
+xProcessPCH
+x/var/folders/1Z/1ZtsrhgoFaGx7KwXo6XuYE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MQOverlaySample-Prefix-cwsqglbscohuppgmwuslcwdkuxpa/MQOverlaySample-Prefix.pch.pth
+xMQOverlaySample/MQOverlaySample-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@53"Precompile MQOverlaySample/MQOverlaySample-Prefix.pch390848368#390848368#0(0"0(0#0#79"/Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySample-Prefix.pch8612622240#2076"    cd /Users/polar/Desktop/MQOverlaySample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/MQOverlaySample-generated-files.hmap -I/Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/MQOverlaySample-own-target-headers.hmap -I/Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/MQOverlaySample-all-target-headers.hmap -iquote /Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/MQOverlaySample-project-headers.hmap -F/Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator -F/Users/polar/Desktop/MQOverlaySample/../../build -F/Users/polar/Desktop/MQOverlaySample/../.. -I/Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/include -I/Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/DerivedSources/i386 -I/Users/polar/Desktop/MQOverlaySample/build/MQOverlaySample.build/Debug-iphonesimulator/MQOverlaySample.build/DerivedSources -c /Users/polar/Desktop/MQOverlaySample/MQOverlaySample/MQOverlaySample-Prefix.pch -o /var/folders/1Z/1ZtsrhgoFaGx7KwXo6XuYE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/MQOverlaySample-Prefix-cwsqglbscohuppgmwuslcwdkuxpa/MQOverlaySample-Prefix.pch.pth0#
+
+CTouch /Users/polar/Desktop/MQOverlaySample/build/Debug-iphonesimulator/MQOverlaySample.app
+r0
+
